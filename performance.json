@@ -1,0 +1,18 @@
+{
+  "performance": [
+    {
+      "parentId": 1,
+      "date": "2026-01-29",
+      "rating": 5,
+      "comment": "Ava was very helpful today during art class! She shared her crayons with everyone.",
+      "photoUrl": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?auto=format&fit=crop&q=80&w=200"
+    },
+    {
+      "parentId": 2,
+      "date": "2026-01-29",
+      "rating": 4,
+      "comment": "Olivia participated well in group activities and followed instructions nicely.",
+      "photoUrl": "https://images.unsplash.com/photo-1519238263496-63f82a0359d5?auto=format&fit=crop&q=80&w=200"
+    }
+  ]
+}
