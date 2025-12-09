@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Mini Kickers Soccer",
+    "coach": "Coach Dube",
+    "days": "Mon & Wed",
+    "time": "14:00 - 15:00",
+    "location": "Main Field",
+    "icon": "⚽",
+    "gradient": ["#34D399", "#059669"],
+    "chipBg": "rgba(16, 185, 129, 0.08)",
+    "chipText": "#059669",
+    "description": "Fundamental ball skills and teamwork for beginners."
+  },
+  {
+    "id": 2,
+    "name": "Little Fins Swimming",
+    "coach": "Mrs. Nel",
+    "days": "Tue & Thu",
+    "time": "13:00 - 14:00",
+    "location": "School Pool",
+    "icon": "🏊",
+    "gradient": ["#22D3EE", "#2563EB"],
+    "chipBg": "rgba(56, 189, 248, 0.08)",
+    "chipText": "#0891B2",
+    "description": "Water safety and stroke correction in a heated pool."
+  },
+  {
+    "id": 3,
+    "name": "Tiny Toes Ballet",
+    "coach": "Ms. P",
+    "days": "Friday",
+    "time": "13:30 - 14:30",
+    "location": "School Hall",
+    "icon": "🩰",
+    "gradient": ["#FB7185", "#E11D48"],
+    "chipBg": "rgba(244, 114, 182, 0.08)",
+    "chipText": "#BE185D",
+    "description": "Rhythm, coordination and balance through dance."
+  },
+  {
+    "id": 4,
+    "name": "Ace Tennis",
+    "coach": "Coach Sarah",
+    "days": "Thursday",
+    "time": "14:00 - 15:00",
+    "location": "Tennis Courts",
+    "icon": "🎾",
+    "gradient": ["#FACC15", "#F97316"],
+    "chipBg": "rgba(250, 204, 21, 0.10)",
+    "chipText": "#CA8A04",
+    "description": "Hand-eye coordination and fun match play."
+  },
+  {
+    "id": 5,
+    "name": "Cricket Kids",
+    "coach": "Mr. Smith",
+    "days": "Wednesday",
+    "time": "14:00 - 15:30",
+    "location": "Practice Nets",
+    "icon": "🏏",
+    "gradient": ["#F97373", "#B91C1C"],
+    "chipBg": "rgba(248, 113, 113, 0.10)",
+    "chipText": "#B91C1C",
+    "description": "Batting and bowling techniques for future stars."
+  },
+  {
+    "id": 6,
+    "name": "Rugby",
+    "coach": "Mr. Smith",
+    "days": "Wednesday",
+    "time": "14:00 - 15:30",
+    "location": "Practice Nets",
+    "icon": "🏏",
+    "gradient": ["#F97373", "#B91C1C"],
+    "chipBg": "rgba(248, 113, 113, 0.10)",
+    "chipText": "#B91C1C",
+    "description": "Batting and bowling techniques for future stars."
+  }
+]
