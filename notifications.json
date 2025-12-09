@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "School Fees Reminder",
+    "message": "Friendly reminder that school fees for February are due by the 5th.",
+    "date": "2 hours ago",
+    "type": "alert",
+    "read": false
+  },
+  {
+    "id": 2,
+    "title": "Swimming Gala Postponed",
+    "message": "Due to weather conditions, the gala is moved to next Friday.",
+    "date": "5 hours ago",
+    "type": "info",
+    "read": false
+  },
+  {
+    "id": 3,
+    "title": "New Term Schedule",
+    "message": "The Term 1 schedule has been updated. Please check the calendar.",
+    "date": "1 day ago",
+    "type": "success",
+    "read": true
+  },
+  {
+    "id": 4,
+    "title": "Baker Day",
+    "message": "Don't forget it's Baker Day for the Busy Bees class tomorrow!",
+    "date": "2 days ago",
+    "type": "info",
+    "read": true
+  }
+]
