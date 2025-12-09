@@ -1,0 +1,71 @@
+{
+  "invoices": [
+    {
+      "id": 1,
+      "parentId": 1,
+      "childName": "Ava Maile",
+      "month": "January",
+      "year": 2026,
+      "amount": 2500,
+      "status": "Paid",
+      "issuedDate": "2026-01-01",
+      "dueDate": "2026-01-07",
+      "reference": "INV-2026-001",
+      "pdfUrl": "https://example.com/invoices/INV-2025-001.pdf"
+    },
+    {
+      "id": 2,
+      "parentId": 1,
+      "childName": "Ava Maile",
+      "month": "February",
+      "year": 2026,
+      "amount": 2500,
+      "status": "Unpaid",
+      "issuedDate": "2026-02-01",
+      "dueDate": "2026-02-07",
+      "reference": "INV-2026-012",
+      "pdfUrl": "https://raw.githubusercontent.com/AngelMaile/KLI/main/Receipt_1764026851421.pdf"
+    },
+
+    {
+      "id": 3,
+      "parentId": 2,
+      "childName": "Olivia Mathabela",
+      "month": "January",
+      "year": 2026,
+      "amount": 2300,
+      "status": "Paid",
+      "issuedDate": "2026-01-01",
+      "dueDate": "2026-01-07",
+      "reference": "INV-2026-002",
+      "pdfUrl": "https://raw.githubusercontent.com/AngelMaile/KLI/main/Receipt_1764026851421.pdf"
+    },
+    {
+      "id": 4,
+      "parentId": 2,
+      "childName": "Olivia Mathabela",
+      "month": "February",
+      "year": 2026,
+      "amount": 2300,
+      "status": "Paid",
+      "issuedDate": "2026-02-01",
+      "dueDate": "2026-02-07",
+      "reference": "INV-2026-013",
+      "pdfUrl": "https://example.com/invoices/INV-2025-013.pdf"
+    },
+
+    {
+      "id": 5,
+      "parentId": 3,
+      "childName": "Luke Piastri",
+      "month": "January",
+      "year": 2026,
+      "amount": 2600,
+      "status": "Unpaid",
+      "issuedDate": "2026-01-01",
+      "dueDate": "2026-01-07",
+      "reference": "INV-2026-003",
+      "pdfUrl": "https://example.com/invoices/INV-2025-003.pdf"
+    }
+  ]
+}
