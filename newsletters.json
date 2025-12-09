@@ -1,0 +1,40 @@
+{
+  "newsletters": [
+    { 
+      "id": 1, 
+      "title": "February Fun & Updates", 
+      "date": "01 Feb 2026", 
+      "snippet": "Valentine's picnic info and new playground rules.", 
+      "content": "Dear Parents,\n\nWe are excited to announce our annual Valentine's Picnic taking place on Friday, 14th February. Please pack a special lunch for your little ones. We will provide treats and juice!\n\nAdditionally, please note the new playground rules regarding the jungle gym to ensure safety during wet weather.\n\nRegards,\nSchool Management",
+      "author": "Principal Skinner",
+      "read": false 
+    },
+    { 
+      "id": 2, 
+      "title": "Term 1 Curriculum", 
+      "date": "15 Jan 2026", 
+      "snippet": "What we are learning this term in Grade R and 1.", 
+      "content": "Welcome to Term 1! This term we are focusing on:\n\n- Mathematics: Counting to 20, basic shapes, and patterns.\n- Language: Phonics (S, A, T, P, I, N), storytelling, and basic writing skills.\n- Life Skills: Hygiene, social interaction, and creative arts.\n\nPlease check your child's diary daily for homework updates.",
+      "author": "Mrs. Krabappel",
+      "read": true 
+    },
+    { 
+      "id": 3, 
+      "title": "Welcome Back 2026", 
+      "date": "05 Jan 2026", 
+      "snippet": "Important dates and staff introductions.", 
+      "content": "Welcome back to a brand new year at Klim & Klouter! We hope you had a restful holiday.\n\nWe are thrilled to introduce two new staff members: Mr. Keating (Grade 1) and Ms. Honey (Grade R).\n\nKey Dates:\n- 14 Feb: Valentine's Picnic\n- 20 Feb: Parent Teacher Meeting\n- 05 Mar: School Concert\n\nHere's to a fantastic year ahead!",
+      "author": "Principal Skinner",
+      "read": true 
+    },
+    { 
+      "id": 4, 
+      "title": "Year End Wrap Up", 
+      "date": "10 Dec 2025", 
+      "snippet": "Photos from the concert and holiday wishes.", 
+      "content": "What a year it has been! Our annual concert was a massive success. Thank you to all parents who attended and helped with costumes.\n\nReport cards are now available for collection at the front office.\n\nWe wish you a safe and happy holiday season. See you in 2026!",
+      "author": "Admin Team",
+      "read": true 
+    }
+  ]
+}
