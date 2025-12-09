@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Art Exhibition",
+    "date": "2023-11-15",
+    "category": "Events",
+    "image": "https://images.unsplash.com/photo-1560421683-6856ea585c78?q=80&w=2074&auto=format&fit=crop",
+    "description": "We are thrilled to invite all parents to our Annual Art Exhibition. The children have been working hard for weeks creating masterpieces using watercolours, clay, and recycled materials. Join us in the main hall for an evening of creativity and snacks. \n\nDoors open at 17:00 and the awards ceremony will begin at 18:00."
+  },
+  {
+    "id": 2,
+    "title": "New Playground Equipment",
+    "date": "2023-11-10",
+    "category": "Update",
+    "image": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?q=80&w=2070&auto=format&fit=crop",
+    "description": "Great news! The new jungle gym has officially been installed and passed all safety inspections. The new equipment includes a spiral slide, a climbing wall, and sensory play panels designed for all age groups. \n\nWe will have a ribbon-cutting ceremony this Friday during the morning assembly."
+  },
+  {
+    "id": 3,
+    "title": "Swimming Gala Winners",
+    "date": "2023-11-05",
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?q=80&w=2070&auto=format&fit=crop",
+    "description": "Congratulations to the Blue Team for winning this year's Swimming Gala! It was a close competition with the Red Team finishing just 2 points behind. \n\nA big thank you to all the parents who volunteered as timekeepers and cheered from the stands. Photos of the event are now available on the school portal."
+  }
+]
