@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Swimming Gala",
+    "date": "2025-12-05", 
+    "time": "08:00 AM",
+    "location": "School Pool",
+    "type": "Sports"
+  },
+  {
+    "id": 2,
+    "title": "Parent Teacher Meeting",
+    "date": "2025-12-05",
+    "time": "05:00 PM",
+    "location": "Hall A",
+    "type": "Meeting"
+  },
+  {
+    "id": 3,
+    "title": "Art Exhibition",
+    "date": "2025-12-10",
+    "time": "10:00 AM",
+    "location": "Art Room",
+    "type": "Culture"
+  },
+  {
+    "id": 4,
+    "title": "School Closed (Holiday)",
+    "date": "2025-12-16",
+    "time": "All Day",
+    "location": "N/A",
+    "type": "Holiday"
+  },
+  {
+    "id": 5,
+    "title": "Christmas Play",
+    "date": "2025-12-20",
+    "time": "06:00 PM",
+    "location": "Main Hall",
+    "type": "Culture"
+  }
+]
