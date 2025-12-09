@@ -1,0 +1,121 @@
+{
+  "parents": [
+    {
+      "id": 1,
+      "name": "Angel",
+      "surname": "Maile",
+      "phone": "0615477889",
+      "email": "amkmaile@gmail.com",
+      "loginCode": "963852",
+      "children": [
+        {
+          "id": 1,
+          "name": "Ava",
+          "surname": "Maile",
+          "className": "Bee Class",
+          "qrCode": "AVA-MAILE-2025",
+          "birthday": "2019-01-05"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bonolo",
+      "surname": "Mathabela",
+      "phone": "0813047451",
+      "email": "bmathabela@gmail.com",
+      "loginCode": "741852",
+      "children": [
+        {
+          "id": 1,
+          "name": "Olivia",
+          "surname": "Mathabela",
+          "className": "Train Class (Grade R)",
+          "qrCode": "OLIVIA-MATHABELA-2025",
+          "birthday": "2025-12-05"
+        },
+        {
+          "id": 2,
+          "name": "Kamo",
+          "surname": "Mathabela",
+          "className": "Sunshine Class (Grade RR)",
+          "qrCode": "KAMO-MATHABELA-2025",
+          "birthday": "2021-03-10"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Oscar",
+      "surname": "Piastri",
+      "phone": "074541256",
+      "email": "opiastri@gmail.com",
+      "loginCode": "147258",
+      "children": [
+        {
+          "id": 1,
+          "name": "Luke",
+          "surname": "Piastri",
+          "className": "Bee Class",
+          "qrCode": "LUKE-PIASTRI-2025",
+          "birthday": "2020-01-18"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kamo",
+      "surname": "Molefe",
+      "phone": "0738841122",
+      "email": "kamo.molefe@gmail.com",
+      "loginCode": "258369",
+      "children": [
+        {
+          "id": 1,
+          "name": "Lerato",
+          "surname": "Molefe",
+          "className": "Sunshine Class (Grade RR)",
+          "qrCode": "LERATO-MOLEFE-2025",
+          "birthday": "2020-07-14"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Thapelo",
+      "surname": "Mokoena",
+      "phone": "0785512398",
+      "email": "tmokoena@gmail.com",
+      "loginCode": "369147",
+      "children": [
+        {
+          "id": 1,
+          "name": "Neo",
+          "surname": "Mokoena",
+          "className": "Rainbow Class (Grade R)",
+          "qrCode": "NEO-MOKOENA-2025",
+          "birthday": "2019-11-02"
+        }
+      ]
+    }
+  ],
+
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Mr.",
+      "surname": "Dube",
+      "phone": "0749982211",
+      "email": "coach.dube@school.com",
+      "loginCode": "112233"
+    },
+    {
+      "id": 2,
+      "name": "Mrs.",
+      "surname": "Nel",
+      "phone": "0834458822",
+      "email": "mrs.nel@school.com",
+      "loginCode": "445566"
+    }
+  ]
+}
