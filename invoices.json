@@ -26,6 +26,58 @@
       "reference": "INV-2026-012",
       "pdfUrl": "https://raw.githubusercontent.com/AngelMaile/KLI/main/Receipt_1764026851421.pdf"
     },
+    {
+      "id": 6,
+      "parentId": 1,
+      "childName": "Ava Maile",
+      "month": "March",
+      "year": 2026,
+      "amount": 2500,
+      "status": "Paid",
+      "issuedDate": "2026-03-01",
+      "dueDate": "2026-03-07",
+      "reference": "INV-2026-021",
+      "pdfUrl": "https://example.com/invoices/INV-2026-021.pdf"
+    },
+    {
+      "id": 7,
+      "parentId": 1,
+      "childName": "Ava Maile",
+      "month": "April",
+      "year": 2026,
+      "amount": 2500,
+      "status": "Paid",
+      "issuedDate": "2026-04-01",
+      "dueDate": "2026-04-07",
+      "reference": "INV-2026-031",
+      "pdfUrl": "https://example.com/invoices/INV-2026-031.pdf"
+    },
+    {
+      "id": 8,
+      "parentId": 1,
+      "childName": "Ava Maile",
+      "month": "May",
+      "year": 2026,
+      "amount": 2500,
+      "status": "Unpaid",
+      "issuedDate": "2026-05-01",
+      "dueDate": "2026-05-07",
+      "reference": "INV-2026-041",
+      "pdfUrl": "https://example.com/invoices/INV-2026-041.pdf"
+    },
+    {
+      "id": 9,
+      "parentId": 1,
+      "childName": "Ava Maile",
+      "month": "June",
+      "year": 2026,
+      "amount": 2500,
+      "status": "Unpaid",
+      "issuedDate": "2026-06-01",
+      "dueDate": "2026-06-07",
+      "reference": "INV-2026-051",
+      "pdfUrl": "https://example.com/invoices/INV-2026-051.pdf"
+    },
 
     {
       "id": 3,
@@ -53,6 +105,58 @@
       "reference": "INV-2026-013",
       "pdfUrl": "https://example.com/invoices/INV-2025-013.pdf"
     },
+    {
+      "id": 10,
+      "parentId": 2,
+      "childName": "Olivia Mathabela",
+      "month": "March",
+      "year": 2026,
+      "amount": 2300,
+      "status": "Paid",
+      "issuedDate": "2026-03-01",
+      "dueDate": "2026-03-07",
+      "reference": "INV-2026-022",
+      "pdfUrl": "https://example.com/invoices/INV-2026-022.pdf"
+    },
+    {
+      "id": 11,
+      "parentId": 2,
+      "childName": "Olivia Mathabela",
+      "month": "April",
+      "year": 2026,
+      "amount": 2300,
+      "status": "Paid",
+      "issuedDate": "2026-04-01",
+      "dueDate": "2026-04-07",
+      "reference": "INV-2026-032",
+      "pdfUrl": "https://example.com/invoices/INV-2026-032.pdf"
+    },
+    {
+      "id": 12,
+      "parentId": 2,
+      "childName": "Olivia Mathabela",
+      "month": "May",
+      "year": 2026,
+      "amount": 2300,
+      "status": "Paid",
+      "issuedDate": "2026-05-01",
+      "dueDate": "2026-05-07",
+      "reference": "INV-2026-042",
+      "pdfUrl": "https://example.com/invoices/INV-2026-042.pdf"
+    },
+    {
+      "id": 13,
+      "parentId": 2,
+      "childName": "Olivia Mathabela",
+      "month": "June",
+      "year": 2026,
+      "amount": 2300,
+      "status": "Paid",
+      "issuedDate": "2026-06-01",
+      "dueDate": "2026-06-07",
+      "reference": "INV-2026-052",
+      "pdfUrl": "https://example.com/invoices/INV-2026-052.pdf"
+    },
 
     {
       "id": 5,
@@ -66,6 +170,71 @@
       "dueDate": "2026-01-07",
       "reference": "INV-2026-003",
       "pdfUrl": "https://example.com/invoices/INV-2025-003.pdf"
+    },
+    {
+      "id": 14,
+      "parentId": 3,
+      "childName": "Luke Piastri",
+      "month": "February",
+      "year": 2026,
+      "amount": 2600,
+      "status": "Paid",
+      "issuedDate": "2026-02-01",
+      "dueDate": "2026-02-07",
+      "reference": "INV-2026-014",
+      "pdfUrl": "https://example.com/invoices/INV-2026-014.pdf"
+    },
+    {
+      "id": 15,
+      "parentId": 3,
+      "childName": "Luke Piastri",
+      "month": "March",
+      "year": 2026,
+      "amount": 2600,
+      "status": "Paid",
+      "issuedDate": "2026-03-01",
+      "dueDate": "2026-03-07",
+      "reference": "INV-2026-023",
+      "pdfUrl": "https://example.com/invoices/INV-2026-023.pdf"
+    },
+    {
+      "id": 16,
+      "parentId": 3,
+      "childName": "Luke Piastri",
+      "month": "April",
+      "year": 2026,
+      "amount": 2600,
+      "status": "Unpaid",
+      "issuedDate": "2026-04-01",
+      "dueDate": "2026-04-07",
+      "reference": "INV-2026-033",
+      "pdfUrl": "https://example.com/invoices/INV-2026-033.pdf"
+    },
+    {
+      "id": 17,
+      "parentId": 3,
+      "childName": "Luke Piastri",
+      "month": "May",
+      "year": 2026,
+      "amount": 2600,
+      "status": "Unpaid",
+      "issuedDate": "2026-05-01",
+      "dueDate": "2026-05-07",
+      "reference": "INV-2026-043",
+      "pdfUrl": "https://example.com/invoices/INV-2026-043.pdf"
+    },
+    {
+      "id": 18,
+      "parentId": 3,
+      "childName": "Luke Piastri",
+      "month": "June",
+      "year": 2026,
+      "amount": 2600,
+      "status": "Unpaid",
+      "issuedDate": "2026-06-01",
+      "dueDate": "2026-06-07",
+      "reference": "INV-2026-053",
+      "pdfUrl": "https://example.com/invoices/INV-2026-053.pdf"
     }
   ]
 }
