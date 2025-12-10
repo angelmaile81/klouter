@@ -7,7 +7,7 @@
       "month": "January",
       "year": 2026,
       "amount": 2500,
-      "status": "Paid",
+      "status": "Unpaid",
       "issuedDate": "2026-01-01",
       "dueDate": "2026-01-07",
       "reference": "INV-2026-001",
